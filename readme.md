@@ -14,8 +14,8 @@ A mobile app focused on helping users track their alcohol consumption and gradua
 - **Key Metrics:** Highlight total units consumed, streak of alcohol-free days, and latest achievements.
 
 ### Additional Concepts
-- **Daily Log:** A quick form to record each drink, including type and quantity.
+- **Daily Log:** A quick form to record each drink, including type and quantity, by simply taking photo.
 - **Progress Charts:** Visualize consumption trends, track progress toward reduction or full sobriety.
+- **Pesonal Strategy:** Get personal plan, depending on your situation.
 - **Notifications & Reminders:** Gentle prompts to log drinks or celebrate milestones.
-- **Community & Support:** Optional forum or resource links for peer support and professional help.
 - **Settings & Goals:** Let users configure personal consumption targets, track progress, and update motivations or milestones.
